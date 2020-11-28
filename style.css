@@ -1,0 +1,10 @@
+.is-one-fifth {
+background-color:#f5f6fa;
+}
+div.column.is-one-fifth,is-pulled-left.search{
+    padding-bottom: 50rem;
+}
+
+.div.card-content {
+   overflow: hidden;
+}
